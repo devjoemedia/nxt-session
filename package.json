@@ -1,0 +1,22 @@
+{
+  "name": "nxt-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.6.0",
+    "nanoid": "^5.0.7",
+    "typescript": "^5.5.3"
+  },
+  "devDependencies": {
+    "@types/cookie": "^0.6.0",
+    "@types/nanoid": "^3.0.0",
+    "@types/node": "^20.14.11"
+  }
+}
